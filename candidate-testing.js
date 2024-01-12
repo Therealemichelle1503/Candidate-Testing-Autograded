@@ -38,9 +38,7 @@ if (candidateAnswer = "Sally Ride"){
 }
 
 
-  let grade;  //TODO 3.2 use this variable to calculate the candidates score.
-
-
+  let grade;  //TODO 3.2 use this variable to calculate the candidates score //
   return grade;
 }
 
